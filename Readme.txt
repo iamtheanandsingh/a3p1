@@ -1,9 +1,8 @@
 # Assignment Setup and Execution Instructions
 
-## Group Memebers
+## Group Members
 ### Srajit Rastogi – SXR230001
 ### Anand Singh – AXS230094
-
 
 ## Initial Setup
 1. **Start the Kafka Environment**
